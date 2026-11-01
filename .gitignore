@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# build output
+out/
+
+# logs
+*.log
+npm-debug.log*
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# local test scratch
+node_modules/.tmp-*
