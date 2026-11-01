@@ -16,3 +16,6 @@ Thumbs.db
 
 # local test scratch
 node_modules/.tmp-*
+
+# ts incremental build cache
+*.tsbuildinfo
